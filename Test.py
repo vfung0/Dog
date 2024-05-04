@@ -17,6 +17,7 @@ user_feeling = input("How are you feeling today? ")
  
 # Check the user's response 
 
+
 if user_feeling.lower() == "happy": 
     print("That's great to hear!") 
 elif user_feeling.lower() == "sad": 
